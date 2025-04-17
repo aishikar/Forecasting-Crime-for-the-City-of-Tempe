@@ -34,4 +34,4 @@ This project explores the use of predictive modeling and spatial-temporal data a
 - Geopandas, Plotly  
 - Imageio
 
-## 👩‍💻 Team Members: Aishika Rathnala, Teja Naidu Koppineni, Sai Harshith Reddy Muthani, Satya Pranay Manas Nunna, Sai Neeraj Bobba
+👩‍💻 Team Members: Aishika Rathnala, Teja Naidu Koppineni, Sai Harshith Reddy Muthani, Satya Pranay Manas Nunna, Sai Neeraj Bobba
